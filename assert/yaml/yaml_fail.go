@@ -1,4 +1,4 @@
-//go:build testify_yaml_fail && !testify_yaml_custom && !testify_yaml_default
+//go:build !testify_yaml_custom
 
 // Package yaml is an implementation of YAML functions that always fail.
 //
